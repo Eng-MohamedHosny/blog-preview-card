@@ -129,9 +129,9 @@ body {
     padding:5.5px 0;
 }
 .attribution {
-      font-size: var(--space-150);
-     padding: var(--space-300);
-    
+      /* font-size: var(--space-150);
+     padding: var(--space-300); */
+    display: none;
 }
 
 
